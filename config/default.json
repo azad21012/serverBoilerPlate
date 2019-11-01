@@ -1,0 +1,6 @@
+{
+    "port": 7000,
+    "baseUrl": "/BoilerPlate/api/v1",
+    "mongoUrl": "mongodb://localhost:27017/BoilerPlate",
+    "mongoLogUrl":"mongodb://localhost:27017/BilerPlateLog"
+}
